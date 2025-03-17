@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Simple_Login")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aacf8a90b6c865010e2ae7079148a5612f780f04")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ba6353a6aab0f71637988ccb2b261b2a04dfb52")]
 [assembly: System.Reflection.AssemblyProductAttribute("Simple_Login")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Simple_Login")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

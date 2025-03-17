@@ -3,24 +3,60 @@
   "WorkspaceRootPath": "D:\\Semesters\\7th Sem\\.NET\\C# Projects\\ASP.Net_Project\\Simple_Login\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C0BCCC9A-6066-47C2-A65A-91297451EF17}|Simple_Login\\Simple_Login.csproj|d:\\semesters\\7th sem\\.net\\c# projects\\asp.net_project\\simple_login\\simple_login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0BCCC9A-6066-47C2-A65A-91297451EF17}|Simple_Login\\Simple_Login.csproj|solutionrelative:simple_login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C0BCCC9A-6066-47C2-A65A-91297451EF17}|Simple_Login\\Simple_Login.csproj|d:\\semesters\\7th sem\\.net\\c# projects\\asp.net_project\\simple_login\\simple_login\\views\\shared\\loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0BCCC9A-6066-47C2-A65A-91297451EF17}|Simple_Login\\Simple_Login.csproj|solutionrelative:simple_login\\views\\shared\\loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0BCCC9A-6066-47C2-A65A-91297451EF17}|Simple_Login\\Simple_Login.csproj|d:\\semesters\\7th sem\\.net\\c# projects\\asp.net_project\\simple_login\\simple_login\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{C0BCCC9A-6066-47C2-A65A-91297451EF17}|Simple_Login\\Simple_Login.csproj|solutionrelative:simple_login\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{C0BCCC9A-6066-47C2-A65A-91297451EF17}|Simple_Login\\Simple_Login.csproj|d:\\semesters\\7th sem\\.net\\c# projects\\asp.net_project\\simple_login\\simple_login\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BCCC9A-6066-47C2-A65A-91297451EF17}|Simple_Login\\Simple_Login.csproj|solutionrelative:simple_login\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0BCCC9A-6066-47C2-A65A-91297451EF17}|Simple_Login\\Simple_Login.csproj|d:\\semesters\\7th sem\\.net\\c# projects\\asp.net_project\\simple_login\\simple_login\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0BCCC9A-6066-47C2-A65A-91297451EF17}|Simple_Login\\Simple_Login.csproj|solutionrelative:simple_login\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C0BCCC9A-6066-47C2-A65A-91297451EF17}|Simple_Login\\Simple_Login.csproj|d:\\semesters\\7th sem\\.net\\c# projects\\asp.net_project\\simple_login\\simple_login\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0BCCC9A-6066-47C2-A65A-91297451EF17}|Simple_Login\\Simple_Login.csproj|solutionrelative:simple_login\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BCCC9A-6066-47C2-A65A-91297451EF17}|Simple_Login\\Simple_Login.csproj|d:\\semesters\\7th sem\\.net\\c# projects\\asp.net_project\\simple_login\\simple_login\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BCCC9A-6066-47C2-A65A-91297451EF17}|Simple_Login\\Simple_Login.csproj|solutionrelative:simple_login\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BCCC9A-6066-47C2-A65A-91297451EF17}|Simple_Login\\Simple_Login.csproj|d:\\semesters\\7th sem\\.net\\c# projects\\asp.net_project\\simple_login\\simple_login\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BCCC9A-6066-47C2-A65A-91297451EF17}|Simple_Login\\Simple_Login.csproj|solutionrelative:simple_login\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C0BCCC9A-6066-47C2-A65A-91297451EF17}|Simple_Login\\Simple_Login.csproj|d:\\semesters\\7th sem\\.net\\c# projects\\asp.net_project\\simple_login\\simple_login\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C0BCCC9A-6066-47C2-A65A-91297451EF17}|Simple_Login\\Simple_Login.csproj|solutionrelative:simple_login\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0BCCC9A-6066-47C2-A65A-91297451EF17}|Simple_Login\\Simple_Login.csproj|d:\\semesters\\7th sem\\.net\\c# projects\\asp.net_project\\simple_login\\simple_login\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C0BCCC9A-6066-47C2-A65A-91297451EF17}|Simple_Login\\Simple_Login.csproj|solutionrelative:simple_login\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C0BCCC9A-6066-47C2-A65A-91297451EF17}|Simple_Login\\Simple_Login.csproj|d:\\semesters\\7th sem\\.net\\c# projects\\asp.net_project\\simple_login\\simple_login\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0BCCC9A-6066-47C2-A65A-91297451EF17}|Simple_Login\\Simple_Login.csproj|solutionrelative:simple_login\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BCCC9A-6066-47C2-A65A-91297451EF17}|Simple_Login\\Simple_Login.csproj|d:\\semesters\\7th sem\\.net\\c# projects\\asp.net_project\\simple_login\\simple_login\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0BCCC9A-6066-47C2-A65A-91297451EF17}|Simple_Login\\Simple_Login.csproj|solutionrelative:simple_login\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BCCC9A-6066-47C2-A65A-91297451EF17}|Simple_Login\\Simple_Login.csproj|d:\\semesters\\7th sem\\.net\\c# projects\\asp.net_project\\simple_login\\simple_login\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0BCCC9A-6066-47C2-A65A-91297451EF17}|Simple_Login\\Simple_Login.csproj|solutionrelative:simple_login\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BCCC9A-6066-47C2-A65A-91297451EF17}|Simple_Login\\Simple_Login.csproj|d:\\semesters\\7th sem\\.net\\c# projects\\asp.net_project\\simple_login\\simple_login\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BCCC9A-6066-47C2-A65A-91297451EF17}|Simple_Login\\Simple_Login.csproj|solutionrelative:simple_login\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BCCC9A-6066-47C2-A65A-91297451EF17}|Simple_Login\\Simple_Login.csproj|d:\\semesters\\7th sem\\.net\\c# projects\\asp.net_project\\simple_login\\simple_login\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C0BCCC9A-6066-47C2-A65A-91297451EF17}|Simple_Login\\Simple_Login.csproj|solutionrelative:simple_login\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BCCC9A-6066-47C2-A65A-91297451EF17}|Simple_Login\\Simple_Login.csproj|d:\\semesters\\7th sem\\.net\\c# projects\\asp.net_project\\simple_login\\simple_login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BCCC9A-6066-47C2-A65A-91297451EF17}|Simple_Login\\Simple_Login.csproj|solutionrelative:simple_login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BCCC9A-6066-47C2-A65A-91297451EF17}|Simple_Login\\Simple_Login.csproj|d:\\semesters\\7th sem\\.net\\c# projects\\asp.net_project\\simple_login\\simple_login\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0BCCC9A-6066-47C2-A65A-91297451EF17}|Simple_Login\\Simple_Login.csproj|solutionrelative:simple_login\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BCCC9A-6066-47C2-A65A-91297451EF17}|Simple_Login\\Simple_Login.csproj|d:\\semesters\\7th sem\\.net\\c# projects\\asp.net_project\\simple_login\\simple_login\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0BCCC9A-6066-47C2-A65A-91297451EF17}|Simple_Login\\Simple_Login.csproj|solutionrelative:simple_login\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HELLO HOME TECH LTD\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
@@ -32,22 +68,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C0BCCC9A-6066-47C2-A65A-91297451EF17}|Simple_Login\\Simple_Login.csproj|d:\\semesters\\7th sem\\.net\\c# projects\\asp.net_project\\simple_login\\simple_login\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0BCCC9A-6066-47C2-A65A-91297451EF17}|Simple_Login\\Simple_Login.csproj|solutionrelative:simple_login\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0BCCC9A-6066-47C2-A65A-91297451EF17}|Simple_Login\\Simple_Login.csproj|d:\\semesters\\7th sem\\.net\\c# projects\\asp.net_project\\simple_login\\simple_login\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C0BCCC9A-6066-47C2-A65A-91297451EF17}|Simple_Login\\Simple_Login.csproj|solutionrelative:simple_login\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0BCCC9A-6066-47C2-A65A-91297451EF17}|Simple_Login\\Simple_Login.csproj|d:\\semesters\\7th sem\\.net\\c# projects\\asp.net_project\\simple_login\\simple_login\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C0BCCC9A-6066-47C2-A65A-91297451EF17}|Simple_Login\\Simple_Login.csproj|solutionrelative:simple_login\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0BCCC9A-6066-47C2-A65A-91297451EF17}|Simple_Login\\Simple_Login.csproj|d:\\semesters\\7th sem\\.net\\c# projects\\asp.net_project\\simple_login\\simple_login\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C0BCCC9A-6066-47C2-A65A-91297451EF17}|Simple_Login\\Simple_Login.csproj|solutionrelative:simple_login\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0BCCC9A-6066-47C2-A65A-91297451EF17}|Simple_Login\\Simple_Login.csproj|d:\\semesters\\7th sem\\.net\\c# projects\\asp.net_project\\simple_login\\simple_login\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0BCCC9A-6066-47C2-A65A-91297451EF17}|Simple_Login\\Simple_Login.csproj|solutionrelative:simple_login\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -57,108 +77,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "styles.css",
-              "DocumentMoniker": "D:\\Semesters\\7th Sem\\.NET\\C# Projects\\ASP.Net_Project\\Simple_Login\\Simple_Login\\wwwroot\\css\\styles.css",
-              "RelativeDocumentMoniker": "Simple_Login\\wwwroot\\css\\styles.css",
-              "ToolTip": "D:\\Semesters\\7th Sem\\.NET\\C# Projects\\ASP.Net_Project\\Simple_Login\\Simple_Login\\wwwroot\\css\\styles.css",
-              "RelativeToolTip": "Simple_Login\\wwwroot\\css\\styles.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-17T10:06:22.474Z",
+              "DocumentIndex": 0,
+              "Title": "LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\Semesters\\7th Sem\\.NET\\C# Projects\\ASP.Net_Project\\Simple_Login\\Simple_Login\\Views\\Shared\\LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Simple_Login\\Views\\Shared\\LoginPartial.cshtml",
+              "ToolTip": "D:\\Semesters\\7th Sem\\.NET\\C# Projects\\ASP.Net_Project\\Simple_Login\\Simple_Login\\Views\\Shared\\LoginPartial.cshtml",
+              "RelativeToolTip": "Simple_Login\\Views\\Shared\\LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T15:25:39.062Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "D:\\Semesters\\7th Sem\\.NET\\C# Projects\\ASP.Net_Project\\Simple_Login\\Simple_Login\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Simple_Login\\Controllers\\AccountController.cs",
-              "ToolTip": "D:\\Semesters\\7th Sem\\.NET\\C# Projects\\ASP.Net_Project\\Simple_Login\\Simple_Login\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Simple_Login\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T09:57:16.568Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Login.cshtml",
               "DocumentMoniker": "D:\\Semesters\\7th Sem\\.NET\\C# Projects\\ASP.Net_Project\\Simple_Login\\Simple_Login\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "Simple_Login\\Views\\Account\\Login.cshtml",
               "ToolTip": "D:\\Semesters\\7th Sem\\.NET\\C# Projects\\ASP.Net_Project\\Simple_Login\\Simple_Login\\Views\\Account\\Login.cshtml",
               "RelativeToolTip": "Simple_Login\\Views\\Account\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-17T09:54:17.9Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Semesters\\7th Sem\\.NET\\C# Projects\\ASP.Net_Project\\Simple_Login\\Simple_Login\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Simple_Login\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Semesters\\7th Sem\\.NET\\C# Projects\\ASP.Net_Project\\Simple_Login\\Simple_Login\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Simple_Login\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T09:36:03.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "D:\\Semesters\\7th Sem\\.NET\\C# Projects\\ASP.Net_Project\\Simple_Login\\Simple_Login\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Simple_Login\\Models\\RegisterViewModel.cs",
+              "ToolTip": "D:\\Semesters\\7th Sem\\.NET\\C# Projects\\ASP.Net_Project\\Simple_Login\\Simple_Login\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "Simple_Login\\Models\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T13:04:10.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Semesters\\7th Sem\\.NET\\C# Projects\\ASP.Net_Project\\Simple_Login\\Simple_Login\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Simple_Login\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Semesters\\7th Sem\\.NET\\C# Projects\\ASP.Net_Project\\Simple_Login\\Simple_Login\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Simple_Login\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T12:30:39.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Register.cshtml",
               "DocumentMoniker": "D:\\Semesters\\7th Sem\\.NET\\C# Projects\\ASP.Net_Project\\Simple_Login\\Simple_Login\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "Simple_Login\\Views\\Account\\Register.cshtml",
               "ToolTip": "D:\\Semesters\\7th Sem\\.NET\\C# Projects\\ASP.Net_Project\\Simple_Login\\Simple_Login\\Views\\Account\\Register.cshtml",
               "RelativeToolTip": "Simple_Login\\Views\\Account\\Register.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwAoAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-17T09:53:39.683Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Container.targets",
-              "DocumentMoniker": "C:\\Users\\HELLO HOME TECH LTD\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
-              "ToolTip": "C:\\Users\\HELLO HOME TECH LTD\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
-              "ViewState": "AgIAAMkAAAAAAAAAAAAawNgAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-03-17T09:49:49.405Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UserModel.cs",
-              "DocumentMoniker": "D:\\Semesters\\7th Sem\\.NET\\C# Projects\\ASP.Net_Project\\Simple_Login\\Simple_Login\\Models\\UserModel.cs",
-              "RelativeDocumentMoniker": "Simple_Login\\Models\\UserModel.cs",
-              "ToolTip": "D:\\Semesters\\7th Sem\\.NET\\C# Projects\\ASP.Net_Project\\Simple_Login\\Simple_Login\\Models\\UserModel.cs",
-              "RelativeToolTip": "Simple_Login\\Models\\UserModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T09:47:46.545Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\Semesters\\7th Sem\\.NET\\C# Projects\\ASP.Net_Project\\Simple_Login\\Simple_Login\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Simple_Login\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\Semesters\\7th Sem\\.NET\\C# Projects\\ASP.Net_Project\\Simple_Login\\Simple_Login\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Simple_Login\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T09:45:27.047Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Semesters\\7th Sem\\.NET\\C# Projects\\ASP.Net_Project\\Simple_Login\\Simple_Login\\Program.cs",
-              "RelativeDocumentMoniker": "Simple_Login\\Program.cs",
-              "ToolTip": "D:\\Semesters\\7th Sem\\.NET\\C# Projects\\ASP.Net_Project\\Simple_Login\\Simple_Login\\Program.cs",
-              "RelativeToolTip": "Simple_Login\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T09:37:53.076Z",
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Semesters\\7th Sem\\.NET\\C# Projects\\ASP.Net_Project\\Simple_Login\\Simple_Login\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Simple_Login\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Semesters\\7th Sem\\.NET\\C# Projects\\ASP.Net_Project\\Simple_Login\\Simple_Login\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Simple_Login\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T13:19:56.144Z",
               "EditorCaption": ""
             },
             {
@@ -176,7 +185,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\Semesters\\7th Sem\\.NET\\C# Projects\\ASP.Net_Project\\Simple_Login\\Simple_Login\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Simple_Login\\Models\\LoginViewModel.cs",
+              "ToolTip": "D:\\Semesters\\7th Sem\\.NET\\C# Projects\\ASP.Net_Project\\Simple_Login\\Simple_Login\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "Simple_Login\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T13:05:48.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Semesters\\7th Sem\\.NET\\C# Projects\\ASP.Net_Project\\Simple_Login\\Simple_Login\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Simple_Login\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Semesters\\7th Sem\\.NET\\C# Projects\\ASP.Net_Project\\Simple_Login\\Simple_Login\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Simple_Login\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAmwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T13:06:10.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "styles.css",
+              "DocumentMoniker": "D:\\Semesters\\7th Sem\\.NET\\C# Projects\\ASP.Net_Project\\Simple_Login\\Simple_Login\\wwwroot\\css\\styles.css",
+              "RelativeDocumentMoniker": "Simple_Login\\wwwroot\\css\\styles.css",
+              "ToolTip": "D:\\Semesters\\7th Sem\\.NET\\C# Projects\\ASP.Net_Project\\Simple_Login\\Simple_Login\\wwwroot\\css\\styles.css",
+              "RelativeToolTip": "Simple_Login\\wwwroot\\css\\styles.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-17T10:06:22.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\Semesters\\7th Sem\\.NET\\C# Projects\\ASP.Net_Project\\Simple_Login\\Simple_Login\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Simple_Login\\Views\\_ViewStart.cshtml",
@@ -189,7 +237,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Semesters\\7th Sem\\.NET\\C# Projects\\ASP.Net_Project\\Simple_Login\\Simple_Login\\Program.cs",
+              "RelativeDocumentMoniker": "Simple_Login\\Program.cs",
+              "ToolTip": "D:\\Semesters\\7th Sem\\.NET\\C# Projects\\ASP.Net_Project\\Simple_Login\\Simple_Login\\Program.cs",
+              "RelativeToolTip": "Simple_Login\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T09:37:53.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\Semesters\\7th Sem\\.NET\\C# Projects\\ASP.Net_Project\\Simple_Login\\Simple_Login\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Simple_Login\\Views\\_ViewImports.cshtml",
@@ -202,16 +263,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\Semesters\\7th Sem\\.NET\\C# Projects\\ASP.Net_Project\\Simple_Login\\Simple_Login\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Simple_Login\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\Semesters\\7th Sem\\.NET\\C# Projects\\ASP.Net_Project\\Simple_Login\\Simple_Login\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Simple_Login\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "Container.targets",
+              "DocumentMoniker": "C:\\Users\\HELLO HOME TECH LTD\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
+              "ToolTip": "C:\\Users\\HELLO HOME TECH LTD\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAawNgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-03-17T09:49:49.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "D:\\Semesters\\7th Sem\\.NET\\C# Projects\\ASP.Net_Project\\Simple_Login\\Simple_Login\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "Simple_Login\\Models\\UserModel.cs",
+              "ToolTip": "D:\\Semesters\\7th Sem\\.NET\\C# Projects\\ASP.Net_Project\\Simple_Login\\Simple_Login\\Models\\UserModel.cs",
+              "RelativeToolTip": "Simple_Login\\Models\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T09:36:03.088Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T09:47:46.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Semesters\\7th Sem\\.NET\\C# Projects\\ASP.Net_Project\\Simple_Login\\Simple_Login\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Simple_Login\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Semesters\\7th Sem\\.NET\\C# Projects\\ASP.Net_Project\\Simple_Login\\Simple_Login\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Simple_Login\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T09:45:27.047Z"
             }
           ]
         }

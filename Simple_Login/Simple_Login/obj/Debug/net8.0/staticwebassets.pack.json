@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "D:\\Semesters\\7th Sem\\.NET\\C# Projects\\ASP.Net_Project\\Simple_Login\\Simple_Login\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
       "Id": "D:\\Semesters\\7th Sem\\.NET\\C# Projects\\ASP.Net_Project\\Simple_Login\\Simple_Login\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
