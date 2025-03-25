@@ -1,0 +1,293 @@
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\STUDENT_CRUD.dll.config
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\STUDENT_CRUD.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\STUDENT_CRUD.pdb
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\csc.exe
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\csc.exe.config
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\csc.rsp
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\csi.exe
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\csi.exe.config
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\csi.rsp
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\System.AppContext.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\System.Console.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\System.Net.Http.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\System.Net.Sockets.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\vbc.exe
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\vbc.exe.config
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\vbc.rsp
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\Antlr3.Runtime.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\Newtonsoft.Json.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\System.Web.Optimization.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\WebGrease.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\System.Web.Optimization.xml
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\Newtonsoft.Json.xml
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\Antlr3.Runtime.pdb
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\obj\Debug\STUDENT_CRUD.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\obj\Debug\STUDENT_CRUD.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\obj\Debug\STUDENT_.8871C691.Up2Date
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\obj\Debug\STUDENT_CRUD.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\obj\Debug\STUDENT_CRUD.pdb
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\SqlServerTypes\x64\msvcr120.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\SqlServerTypes\x86\msvcr120.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\Microsoft.ReportViewer.Design.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\Microsoft.SqlServer.Types.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\EnvDTE.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\Microsoft.ReportViewer.WinForms.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\stdole.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\source\repos\STUDENT_CRUD\STUDENT_CRUD\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\SqlServerTypes\x64\msvcr120.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\SqlServerTypes\x86\msvcr120.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\STUDENT_CRUD.dll.config
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\STUDENT_CRUD.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\STUDENT_CRUD.pdb
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\csc.exe
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\csc.exe.config
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\csc.rsp
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\csi.exe
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\csi.exe.config
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\csi.rsp
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\System.AppContext.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\System.Collections.Immutable.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\System.Console.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\System.Globalization.Calendars.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\System.IO.Compression.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\System.IO.FileSystem.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\System.Net.Http.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\System.Net.Sockets.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\System.Reflection.Metadata.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\System.ValueTuple.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\System.Xml.XPath.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\vbc.exe
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\vbc.exe.config
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\vbc.rsp
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\VBCSCompiler.exe
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\roslyn\VBCSCompiler.exe.config
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\Antlr3.Runtime.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\Microsoft.ReportViewer.Common.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\Microsoft.ReportViewer.DataVisualization.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\Microsoft.ReportViewer.Design.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\Microsoft.ReportViewer.WebDesign.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\Microsoft.ReportViewer.WebForms.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\Microsoft.SqlServer.Types.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\Microsoft.Web.Infrastructure.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\Newtonsoft.Json.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\System.Web.Optimization.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\WebGrease.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\EnvDTE.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\Microsoft.ReportViewer.WinForms.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\stdole.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\System.Web.Optimization.xml
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\Newtonsoft.Json.xml
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\Antlr3.Runtime.pdb
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\EnvDTE.xml
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\obj\Debug\STUDENT_CRUD.csproj.AssemblyReference.cache
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\obj\Debug\STUDENT_CRUD.csproj.CoreCompileInputs.cache
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\obj\Debug\STUDENT_.8871C691.Up2Date
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\obj\Debug\STUDENT_CRUD.dll
+D:\Semesters\7th Sem\.NET\STUDENT_CRUD\STUDENT_CRUD\STUDENT_CRUD\obj\Debug\STUDENT_CRUD.pdb

@@ -1,0 +1,199 @@
+﻿/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    height: 1244px;
+}
+
+.registration-form {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+
+.header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.logo {
+    position: absolute;
+    top: 39px;
+    left: 58px;
+    width: 122px; 
+    height: 106px;
+}
+
+.header h1 {
+    font-size: 30px;
+    font-family: serif;
+    margin: 0;
+    color: #0059B5;
+}
+
+    .header p {
+        font-size: 14px;
+        margin: 5px 0;
+    }
+
+.header-container {
+    position: relative;
+    justify-content: space-between;
+    align-items: center;
+    
+    text-align: center;
+}
+
+
+h2 {
+    font-style: italic;
+    margin: 0;
+}
+
+
+.generated-date {
+    font-style: italic;
+    text-align: right;
+    font-size: 9px;
+    margin: 0;
+}
+
+
+
+
+.student-container {
+    display: flex;
+    justify-content: space-between; 
+    align-items: flex-start; 
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+
+.student-info {
+    text-align: left;
+    width: 50%; 
+}
+
+
+.student-details {
+    text-align: left;
+    width: 50%;
+    gap: 12px;
+}
+.detail-row {
+    display: flex;
+    align-items: baseline;
+    margin-bottom: 10px; 
+}
+
+   
+    .student-details table {
+        width: auto;
+    }
+
+    .student-details td {
+        padding-right: 10px;
+    }
+
+
+.course-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+    .course-table th, .course-table td {
+        border: 1px solid #000;
+        padding: 8px;
+        text-align: left;
+    }
+
+    .course-table th {
+        background-color: #eee;
+    }
+
+.total-credits {
+    margin-bottom: 20px;
+}
+
+.fees-section {
+    width: 41%;
+    max-width: 350px;
+    margin: 0 auto;
+}
+
+.fee-table {
+    border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    width: 91%;
+    border-collapse: collapse;
+}
+
+    .fee-table tr {
+        line-height: 1.3;
+    }
+
+    .fee-table td {
+        font-size: 14px;
+        padding: 2px 0;
+        border: none;
+        vertical-align: top;
+    }
+
+.fee-label {
+    text-align: left;
+    padding-right: 15px; 
+}
+
+.fee-value {
+    text-align: right;
+    font-family: monospace; 
+    white-space: nowrap;
+}
+
+.indented .fee-label {
+    padding-left: 20px;
+}
+
+.total-row .fee-label,
+.total-row .fee-value {
+    font-weight: bold;
+    padding-top: 5px; 
+}
+
+
+.total-row {
+    border-top: 1px solid #ddd;
+    margin-top: 3px;
+    padding-top: 3px;
+}
+
+
+.footer-notes {
+    margin-top: 20px;
+    font-size: 12px;
+}
+.registered-courses-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0 auto;
+    font-size: 14px;
+}
+
+    .registered-courses-table th {
+        background-color: #f2f2f2;
+        padding: 8px 12px;
+        text-align: left;
+        border-bottom: 2px solid #ddd;
+    }
+
+    .registered-courses-table td {
+        padding: 8px 12px;
+        border-bottom: 1px solid #ddd;
+    }
+
+    .registered-courses-table tr:last-child td {
+        border-bottom: none;
+    }

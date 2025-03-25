@@ -1,0 +1,2 @@
+D:\Semesters\7th Sem\.NET\C# Projects\STUDENT_CRUD\STUDENT_CRUD\obj\Debug\STUDENT_CRUD.csproj.AssemblyReference.cache
+D:\Semesters\7th Sem\.NET\C# Projects\STUDENT_CRUD\STUDENT_CRUD\obj\Debug\STUDENT_CRUD.csproj.CoreCompileInputs.cache
