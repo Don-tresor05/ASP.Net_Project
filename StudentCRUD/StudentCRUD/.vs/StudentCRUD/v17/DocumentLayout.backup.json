@@ -1,0 +1,247 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Semesters\\7th Sem\\.NET\\StudentCRUD\\StudentCRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E084486A-77CF-4C1F-969B-5486A415E6DA}|StudentCRUD\\StudentCRUD.csproj|d:\\semesters\\7th sem\\.net\\studentcrud\\studentcrud\\studentcrud\\studentdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E084486A-77CF-4C1F-969B-5486A415E6DA}|StudentCRUD\\StudentCRUD.csproj|solutionrelative:studentcrud\\studentdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E084486A-77CF-4C1F-969B-5486A415E6DA}|StudentCRUD\\StudentCRUD.csproj|D:\\Semesters\\7th Sem\\.NET\\StudentCRUD\\StudentCRUD\\StudentCRUD\\StudentDetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E084486A-77CF-4C1F-969B-5486A415E6DA}|StudentCRUD\\StudentCRUD.csproj|solutionrelative:StudentCRUD\\StudentDetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E084486A-77CF-4C1F-969B-5486A415E6DA}|StudentCRUD\\StudentCRUD.csproj|D:\\Semesters\\7th Sem\\.NET\\StudentCRUD\\StudentCRUD\\StudentCRUD\\Default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E084486A-77CF-4C1F-969B-5486A415E6DA}|StudentCRUD\\StudentCRUD.csproj|solutionrelative:StudentCRUD\\Default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E084486A-77CF-4C1F-969B-5486A415E6DA}|StudentCRUD\\StudentCRUD.csproj|D:\\Semesters\\7th Sem\\.NET\\StudentCRUD\\StudentCRUD\\StudentCRUD\\StudentForm.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E084486A-77CF-4C1F-969B-5486A415E6DA}|StudentCRUD\\StudentCRUD.csproj|solutionrelative:StudentCRUD\\StudentForm.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E084486A-77CF-4C1F-969B-5486A415E6DA}|StudentCRUD\\StudentCRUD.csproj|D:\\Semesters\\7th Sem\\.NET\\StudentCRUD\\StudentCRUD\\StudentCRUD\\StudentList.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E084486A-77CF-4C1F-969B-5486A415E6DA}|StudentCRUD\\StudentCRUD.csproj|solutionrelative:StudentCRUD\\StudentList.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E084486A-77CF-4C1F-969B-5486A415E6DA}|StudentCRUD\\StudentCRUD.csproj|D:\\Semesters\\7th Sem\\.NET\\StudentCRUD\\StudentCRUD\\StudentCRUD\\StudentList.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E084486A-77CF-4C1F-969B-5486A415E6DA}|StudentCRUD\\StudentCRUD.csproj|solutionrelative:StudentCRUD\\StudentList.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E084486A-77CF-4C1F-969B-5486A415E6DA}|StudentCRUD\\StudentCRUD.csproj|D:\\Semesters\\7th Sem\\.NET\\StudentCRUD\\StudentCRUD\\StudentCRUD\\StudentForm.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E084486A-77CF-4C1F-969B-5486A415E6DA}|StudentCRUD\\StudentCRUD.csproj|solutionrelative:StudentCRUD\\StudentForm.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E084486A-77CF-4C1F-969B-5486A415E6DA}|StudentCRUD\\StudentCRUD.csproj|D:\\Semesters\\7th Sem\\.NET\\StudentCRUD\\StudentCRUD\\StudentCRUD\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E084486A-77CF-4C1F-969B-5486A415E6DA}|StudentCRUD\\StudentCRUD.csproj|solutionrelative:StudentCRUD\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E084486A-77CF-4C1F-969B-5486A415E6DA}|StudentCRUD\\StudentCRUD.csproj|D:\\Semesters\\7th Sem\\.NET\\StudentCRUD\\StudentCRUD\\StudentCRUD\\StudentRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E084486A-77CF-4C1F-969B-5486A415E6DA}|StudentCRUD\\StudentCRUD.csproj|solutionrelative:StudentCRUD\\StudentRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E084486A-77CF-4C1F-969B-5486A415E6DA}|StudentCRUD\\StudentCRUD.csproj|D:\\Semesters\\7th Sem\\.NET\\StudentCRUD\\StudentCRUD\\StudentCRUD\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E084486A-77CF-4C1F-969B-5486A415E6DA}|StudentCRUD\\StudentCRUD.csproj|solutionrelative:StudentCRUD\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E084486A-77CF-4C1F-969B-5486A415E6DA}|StudentCRUD\\StudentCRUD.csproj|D:\\Semesters\\7th Sem\\.NET\\StudentCRUD\\StudentCRUD\\StudentCRUD\\Site.Master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{E084486A-77CF-4C1F-969B-5486A415E6DA}|StudentCRUD\\StudentCRUD.csproj|solutionrelative:StudentCRUD\\Site.Master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E084486A-77CF-4C1F-969B-5486A415E6DA}|StudentCRUD\\StudentCRUD.csproj|D:\\Semesters\\7th Sem\\.NET\\StudentCRUD\\StudentCRUD\\StudentCRUD\\Default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E084486A-77CF-4C1F-969B-5486A415E6DA}|StudentCRUD\\StudentCRUD.csproj|solutionrelative:StudentCRUD\\Default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E084486A-77CF-4C1F-969B-5486A415E6DA}|StudentCRUD\\StudentCRUD.csproj|D:\\Semesters\\7th Sem\\.NET\\StudentCRUD\\StudentCRUD\\StudentCRUD\\About.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E084486A-77CF-4C1F-969B-5486A415E6DA}|StudentCRUD\\StudentCRUD.csproj|solutionrelative:StudentCRUD\\About.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E084486A-77CF-4C1F-969B-5486A415E6DA}|StudentCRUD\\StudentCRUD.csproj|D:\\Semesters\\7th Sem\\.NET\\StudentCRUD\\StudentCRUD\\StudentCRUD\\App_Start\\RouteConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E084486A-77CF-4C1F-969B-5486A415E6DA}|StudentCRUD\\StudentCRUD.csproj|solutionrelative:StudentCRUD\\App_Start\\RouteConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "D:\\Semesters\\7th Sem\\.NET\\StudentCRUD\\StudentCRUD\\StudentCRUD\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "StudentCRUD\\Default.aspx.cs",
+              "ToolTip": "D:\\Semesters\\7th Sem\\.NET\\StudentCRUD\\StudentCRUD\\StudentCRUD\\Default.aspx.cs",
+              "RelativeToolTip": "StudentCRUD\\Default.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T20:18:16.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentDetails.aspx.cs",
+              "DocumentMoniker": "D:\\Semesters\\7th Sem\\.NET\\StudentCRUD\\StudentCRUD\\StudentCRUD\\StudentDetails.aspx.cs",
+              "RelativeDocumentMoniker": "StudentCRUD\\StudentDetails.aspx.cs",
+              "ToolTip": "D:\\Semesters\\7th Sem\\.NET\\StudentCRUD\\StudentCRUD\\StudentCRUD\\StudentDetails.aspx.cs",
+              "RelativeToolTip": "StudentCRUD\\StudentDetails.aspx.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T19:50:25.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentDetails.aspx",
+              "DocumentMoniker": "D:\\Semesters\\7th Sem\\.NET\\StudentCRUD\\StudentCRUD\\StudentCRUD\\StudentDetails.aspx",
+              "RelativeDocumentMoniker": "StudentCRUD\\StudentDetails.aspx",
+              "ToolTip": "D:\\Semesters\\7th Sem\\.NET\\StudentCRUD\\StudentCRUD\\StudentCRUD\\StudentDetails.aspx",
+              "RelativeToolTip": "StudentCRUD\\StudentDetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-17T19:49:57.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentForm.aspx",
+              "DocumentMoniker": "D:\\Semesters\\7th Sem\\.NET\\StudentCRUD\\StudentCRUD\\StudentCRUD\\StudentForm.aspx",
+              "RelativeDocumentMoniker": "StudentCRUD\\StudentForm.aspx",
+              "ToolTip": "D:\\Semesters\\7th Sem\\.NET\\StudentCRUD\\StudentCRUD\\StudentCRUD\\StudentForm.aspx",
+              "RelativeToolTip": "StudentCRUD\\StudentForm.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-17T18:17:38.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentList.aspx",
+              "DocumentMoniker": "D:\\Semesters\\7th Sem\\.NET\\StudentCRUD\\StudentCRUD\\StudentCRUD\\StudentList.aspx",
+              "RelativeDocumentMoniker": "StudentCRUD\\StudentList.aspx",
+              "ToolTip": "D:\\Semesters\\7th Sem\\.NET\\StudentCRUD\\StudentCRUD\\StudentCRUD\\StudentList.aspx",
+              "RelativeToolTip": "StudentCRUD\\StudentList.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-17T18:03:57.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentList.aspx.cs",
+              "DocumentMoniker": "D:\\Semesters\\7th Sem\\.NET\\StudentCRUD\\StudentCRUD\\StudentCRUD\\StudentList.aspx.cs",
+              "RelativeDocumentMoniker": "StudentCRUD\\StudentList.aspx.cs",
+              "ToolTip": "D:\\Semesters\\7th Sem\\.NET\\StudentCRUD\\StudentCRUD\\StudentCRUD\\StudentList.aspx.cs",
+              "RelativeToolTip": "StudentCRUD\\StudentList.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T18:04:29.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentForm.aspx.cs",
+              "DocumentMoniker": "D:\\Semesters\\7th Sem\\.NET\\StudentCRUD\\StudentCRUD\\StudentCRUD\\StudentForm.aspx.cs",
+              "RelativeDocumentMoniker": "StudentCRUD\\StudentForm.aspx.cs",
+              "ToolTip": "D:\\Semesters\\7th Sem\\.NET\\StudentCRUD\\StudentCRUD\\StudentCRUD\\StudentForm.aspx.cs",
+              "RelativeToolTip": "StudentCRUD\\StudentForm.aspx.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAArwBQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T18:28:02.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Semesters\\7th Sem\\.NET\\StudentCRUD\\StudentCRUD\\StudentCRUD\\Web.config",
+              "RelativeDocumentMoniker": "StudentCRUD\\Web.config",
+              "ToolTip": "D:\\Semesters\\7th Sem\\.NET\\StudentCRUD\\StudentCRUD\\StudentCRUD\\Web.config",
+              "RelativeToolTip": "StudentCRUD\\Web.config",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-17T18:58:15.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "D:\\Semesters\\7th Sem\\.NET\\StudentCRUD\\StudentCRUD\\StudentCRUD\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "StudentCRUD\\StudentRepository.cs",
+              "ToolTip": "D:\\Semesters\\7th Sem\\.NET\\StudentCRUD\\StudentCRUD\\StudentCRUD\\StudentRepository.cs",
+              "RelativeToolTip": "StudentCRUD\\StudentRepository.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAA6wHAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T17:07:52.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Semesters\\7th Sem\\.NET\\StudentCRUD\\StudentCRUD\\StudentCRUD\\Student.cs",
+              "RelativeDocumentMoniker": "StudentCRUD\\Student.cs",
+              "ToolTip": "D:\\Semesters\\7th Sem\\.NET\\StudentCRUD\\StudentCRUD\\StudentCRUD\\Student.cs",
+              "RelativeToolTip": "StudentCRUD\\Student.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAswBUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T17:03:59.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Site.Master",
+              "DocumentMoniker": "D:\\Semesters\\7th Sem\\.NET\\StudentCRUD\\StudentCRUD\\StudentCRUD\\Site.Master",
+              "RelativeDocumentMoniker": "StudentCRUD\\Site.Master",
+              "ToolTip": "D:\\Semesters\\7th Sem\\.NET\\StudentCRUD\\StudentCRUD\\StudentCRUD\\Site.Master",
+              "RelativeToolTip": "StudentCRUD\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-17T17:00:54.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "D:\\Semesters\\7th Sem\\.NET\\StudentCRUD\\StudentCRUD\\StudentCRUD\\Default.aspx",
+              "RelativeDocumentMoniker": "StudentCRUD\\Default.aspx",
+              "ToolTip": "D:\\Semesters\\7th Sem\\.NET\\StudentCRUD\\StudentCRUD\\StudentCRUD\\Default.aspx",
+              "RelativeToolTip": "StudentCRUD\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-17T16:59:59.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "About.aspx",
+              "DocumentMoniker": "D:\\Semesters\\7th Sem\\.NET\\StudentCRUD\\StudentCRUD\\StudentCRUD\\About.aspx",
+              "RelativeDocumentMoniker": "StudentCRUD\\About.aspx",
+              "ToolTip": "D:\\Semesters\\7th Sem\\.NET\\StudentCRUD\\StudentCRUD\\StudentCRUD\\About.aspx",
+              "RelativeToolTip": "StudentCRUD\\About.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-17T16:58:56.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\Semesters\\7th Sem\\.NET\\StudentCRUD\\StudentCRUD\\StudentCRUD\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "StudentCRUD\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\Semesters\\7th Sem\\.NET\\StudentCRUD\\StudentCRUD\\StudentCRUD\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "StudentCRUD\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T16:57:40.514Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
